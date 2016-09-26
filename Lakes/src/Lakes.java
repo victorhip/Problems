@@ -31,6 +31,3 @@ public class Lakes {
 	       System.out.println(volume);
 	}
 }
-// ddhhuu
-// ddhhddhuhhuuu
-// dddhhhuuhhuuuhdddduu
